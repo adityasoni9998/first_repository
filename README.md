@@ -1,2 +1,2 @@
 # first_repository
-hello_world ---> a warm hello from Soni Adity Bharatbhai
+hello_world ---> a warm hello from Soni Aditya Bharatbhai
